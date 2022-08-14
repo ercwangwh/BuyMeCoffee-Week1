@@ -1,0 +1,12 @@
+{
+  "name": "buymecoffee-contracts",
+  "version": "1.0.0",
+  "description": "free code",
+  "main": "index.js",
+  "repository": "https://github.com/ercwangwh/LEARN-BuyMeCoffee.git",
+  "author": "ercwangwh <ercwangwh@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "hardhat": "^2.10.1"
+  }
+}
